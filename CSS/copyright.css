@@ -1,0 +1,144 @@
+.copyright{
+    height:800px;
+    width:auto;
+    background: linear-gradient(266.24deg,#25c6c6 .53%,#0a0d25 98.01%);
+    overflow-x: hidden;
+}
+
+.layout_copyright{
+    max-width: 1240px;
+    margin: auto;
+}
+
+.copyright_logo{
+    width:89px;
+    height:80px;
+    margin-top: 50px;
+}
+
+.container_copyright{
+    display:block;
+    width:auto;
+}
+
+.content_copyright{
+    display:flex;
+    margin-top: 15px;
+    width:auto;
+}
+
+.main_content_copyright span{
+    position: relative;
+    width:100%;
+    top:5px;
+    left:10px;
+    font-size: 13px;
+    color:white;
+}
+
+.main_content_2_copyright{
+    position: relative;
+    left:37px;
+    font-size: 13px;
+    color:white;
+}
+
+.risk_warn{
+    border-radius: 8px;
+    margin: 22px 0;
+    display:Flex;   
+}
+
+.risk_warn span{
+    position: relative;
+    color:white;
+    font-size: 13px;
+    top:5px;
+    left:10px;
+}
+
+.copyright_logo_c{
+    text-align: center;
+    color:white;
+    font-size:13px;
+}
+
+.warning{
+    color:white;
+    font-size: 13px;
+}
+
+@media screen and (max-width:1071px) {
+    .copyright{
+        height:450px;
+        width:auto;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .copyright{
+        height:500px;
+        width:auto;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .copyright{
+        height:550px;
+        width:auto;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .copyright_logo{
+    width:89px;
+    height:80px;
+    margin-top: 50px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container_copyright{
+        width:1100px;
+    }
+}
+@media screen and (max-width:1136px) {
+    .container_copyright{
+        width:1000px;
+    }
+}
+@media screen and (max-width:1006px) {
+    .container_copyright{
+        width:900px;
+    }
+}
+@media screen and (max-width:937px) {
+    .container_copyright{
+        width:800px;
+    }
+}
+
+@media screen and (max-width:828px) {
+    .container_copyright{
+        width:700px;
+    }
+}
+
+@media screen and (max-width:730px) {
+    .container_copyright{
+        width:500px;
+    }
+}
+
+@media screen and (max-width:510px) {
+    .container_copyright{
+        width:400px;
+    }
+}
+
+@media screen and (max-width:434px) {
+    .container_copyright{
+        width:340px;
+    }
+}
+
+
