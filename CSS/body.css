@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.how_to{
+    width:100%;
+    height:auto;
+    background-image: url(../Image/body-bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.layout_howto{
+    margin:0 auto;
+    max-width: 1270px; 
+}
+
+@media screen and (max-width:767px){
+    .how_to{
+        height:auto;
+    }
+}
